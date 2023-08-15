@@ -47,7 +47,7 @@ nav ul li a {
 .welcome {
     width: 1070px;
     height: 511px;
-    background-image: url("/images/banner.jpeg");
+    background-image: url("images/banner.jpeg");
     background-repeat: no-repeat;
     background-size: cover; 
     display: flex;
